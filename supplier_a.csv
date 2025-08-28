@@ -1,0 +1,73 @@
+sku,description,unit,price
+ALPHA-KITCH-TOPBOT,Kitchen cabinet Top & Bottom (colour PVC),ft,220.00
+ALPHA-KITCH-SUSP-BTM,Suspended bottom kitchen cabinet (colour PVC),ft,30.00
+ALPHA-KITCH-3CLR-LAM,Laminate finish use 3 colours (colour PVC),ft,230.00
+ALPHA-KITCH-AL-GLASS,Aluminium frame glass door c/w hydraulic gas spring,pc,80.00
+ALPHA-KITCH-DISHRACK,Stainless steel dish rack,set,70.00
+ALPHA-KITCH-CEIL8,Ceiling height over 8ft (adder),ft,30.00
+ALPHA-KITCH-SHAKER,Shaker Door kitchen cabinet (colour PVC),ft,145.00
+ALPHA-KITCH-CHG-LAM-DOOR,Change laminate & door,pc,80.00
+ALPHA-KITCH-ADD-DRAW,Additional drawer,pc,35.00
+ALPHA-KITCH-PLYBACK,Raw plywood backing,sqft,8.00
+ALPHA-KITCH-TALL,Tall unit cabinet,ft,300.00
+ALPHA-KITCH-OPEN-SHELF-LAM,Lay laminate for open shelf,nos,90.00
+ALPHA-KITCH-WM-CAB,Washing machine cabinet,ft,100.00
+ALPHA-KITCH-PIPE-CAB,Covering exposed pipe cabinet,ft,100.00
+ALPHA-KITCH-UNDER-BEAM-LAM,Laminate plywood for under beam,ft,25.00
+ALPHA-KITCH-GAS-PIPE-BOX,Box-up covering exposed gas pipe,ft,25.00
+ALPHA-KITCH-FOAM-BASE,Add foam board cabinet base,ft,20.00
+ALPHA-KITCH-FOAM-SINK,Foam board for sink cabinet,ft,240.00
+ALPHA-KITCH-SS-HINGE,Stainless steel hinges,pc,15.00
+ALPHA-KITCH-FRIDGE-SIDE,Fridge side board,pc,200.00
+ALPHA-KITCH-DISHRACK-LAM,Lay laminate for dish rack opening,nos,150.00
+ALPHA-KITCH-SPICE-2T,2-tier wooden pull-out spice drawer (colour PVC),nos,100.00
+ALPHA-WARD-CASE,Wardrobe with casement door,ft,220.00
+ALPHA-WARD-SLIDE,Wardrobe with sliding door,ft,240.00
+ALPHA-WARD-CASE-MIR,Casement door with clear mirror/glass,ft,250.00
+ALPHA-WARD-SLIDE-MIR,Sliding door with clear mirror/glass,ft,280.00
+ALPHA-WARD-PIGEON,Additional pigeon drawer,set,100.00
+ALPHA-WARD-ALU-SLIDE,Aluminium sliding door,ft,280.00
+ALPHA-WARD-ALU-SLIDE-PC,Aluminium sliding door with powder coating,ft,290.00
+ALPHA-WARD-PULLOUT-MIR,Pull-out mirror (W500 x H2100mm),ea,160.00
+ALPHA-WARD-POCKET,Pocket door,ea,100.00
+ALPHA-WARD-SLIDING-MIR,Sliding mirror (50mm x H2000mm),ea,220.00
+ALPHA-WARD-2SIDED,2 sided finish (adder),ea,100.00
+ALPHA-WARD-CEIL8,Ceiling height over 8ft (adder),ft,30.00
+ALPHA-WARD-ADD-DRAW,Additional drawer,pc,35.00
+ALPHA-WALKIN-PVC,Walk-in wardrobe interior c/w colour PVC,ft,190.00
+ALPHA-WALKIN-2SIDED,Walk-in wardrobe 2 sided finish (adder),ea,100.00
+ALPHA-WALKIN-LAM-OPEN,Opening wardrobe with laminate finish w/o door,ft,350.00
+ALPHA-TV-SUSP,TV console suspended laminate H=8in D=20in,ft,130.00
+ALPHA-TV-LOW,Low console laminate H=2ft D=20in,ft,150.00
+ALPHA-TV-ROUND-EDGE,Cabinet with round edge (pet round edge),ea,80.00
+ALPHA-TV-GLASS-DOOR-3P,More than 2pc glass door (adder),pc,35.00
+ALPHA-TV-ALU-LED-8FT,Aluminium LED casing (8ft),pc,40.00
+ALPHA-TV-DOOR,Door,set,60.00
+ALPHA-WALL-NO-LAM,Wall feature without laminate,sqft,15.00
+ALPHA-WALL-WITH-LAM,Wall feature with laminate,sqft,20.00
+ALPHA-WALL-MORE-DESIGN,Wall feature more design,sqft,27.50
+ALPHA-SHOE-LOW-NO-OPEN,Low cabinet without opening (<4ft),ft,140.00
+ALPHA-SHOE-FULL-NO-OPEN,Full height without opening (<4ft),ft,230.00
+ALPHA-SHOE-FULL-2SIDE,Full height with both side laminate (>4ft),ft,260.00
+ALPHA-SHOE-OPEN-1LAM,Full height opening (<4ft) 1pc laminate,ea,100.00
+ALPHA-SHOE-OPEN-2LAM,Full height opening (>4ft) 2pc laminate,ea,200.00
+ALPHA-SHOE-SETTEE,Settee storage cabinet (exclude cushion),ft,125.00
+ALPHA-BED-KING,Bed King size c/w 2 or 4 drawers,set,850.00
+ALPHA-BED-QUEEN,Bed Queen size c/w 2 or 4 drawers,set,750.00
+ALPHA-BED-SUPER-SINGLE,Bed Super single c/w 2 drawers,set,650.00
+ALPHA-BED-SINGLE,Bed Single size c/w 2 drawers,set,600.00
+ALPHA-BED-PULLOUT,Pull-out bed frame (additional),ea,300.00
+ALPHA-PLATFORM-<300,Platform (<300mm),sqft,25.00
+ALPHA-PLATFORM->300,Platform (>300mm),sqft,35.00
+ALPHA-BEDSIDE-<2FT,Side table laminate finish (<2ft),ea,220.00
+ALPHA-BEDSIDE->2FT,Side table laminate finish (>2ft),ft,110.00
+ALPHA-VANITY-SUSP->3FT,Suspended cabinet c/w colour PVC (>3ft),ft,110.00
+ALPHA-VANITY-TOPHUNG-MIR,Top hung cabinet c/w mirror door (>3ft),ft,140.00
+ALPHA-VANITY-FOAM,Add foam board,ft,80.00
+ALPHA-STUDY-SUSP-DESK,Suspended study desk c/w colour PVC,ft,110.00
+ALPHA-STUDY-TOPHUNG,Top hung cabinet laminate c/w colour PVC,ft,110.00
+ALPHA-STUDY-FULL>8FT,Full height (>8ft) adder,ft,30.00
+ALPHA-STUDY-BOTTOM,Study bottom cabinet (H780/D600),ft,135.00
+ALPHA-STUDY-KEYBOARD,Keyboard slide track,set,20.00
+ALPHA-ALTAR,Altar cabinet,ft,240.00
+ALPHA-BOMBSHELTER-3FT,3ft hidden behind bomb shelter PVC storage cabinet,ft,550.00

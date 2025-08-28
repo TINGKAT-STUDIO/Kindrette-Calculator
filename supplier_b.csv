@@ -1,0 +1,109 @@
+sku,description,unit,price
+BEN-WARD-SLIDE-HDB,Sliding door Wardrobe (internal colour PVC) [HDB],ft,250.00
+BEN-WARD-SLIDE-SNS,Sliding door Wardrobe (internal colour PVC) [HDB-SNS],ft,250.00
+BEN-WARD-SLIDE-CONDO,Sliding door Wardrobe (internal colour PVC) [Condo/Landed],ft,280.00
+BEN-WARD-CASE-HDB,Casement door Wardrobe (internal colour PVC) [HDB],ft,240.00
+BEN-WARD-CASE-SNS,Casement door Wardrobe (internal colour PVC) [HDB-SNS],ft,240.00
+BEN-WARD-CASE-CONDO,Casement door Wardrobe (internal colour PVC) [Condo/Landed],ft,270.00
+BEN-WALKIN-PVC-HDB,Walk-in wardrobe w/o door (internal colour PVC) [HDB],ft,200.00
+BEN-WALKIN-PVC-SNS,Walk-in wardrobe w/o door (internal colour PVC) [HDB-SNS],ft,200.00
+BEN-WALKIN-PVC-CONDO,Walk-in wardrobe w/o door (internal colour PVC) [Condo/Landed],ft,230.00
+BEN-WALKIN-LAM-HDB,Walk-in wardrobe w/o door (internal laminate) [HDB],ft,340.00
+BEN-WALKIN-LAM-SNS,Walk-in wardrobe w/o door (internal laminate) [HDB-SNS],ft,340.00
+BEN-WALKIN-LAM-CONDO,Walk-in wardrobe w/o door (internal laminate) [Condo/Landed],ft,370.00
+BEN-DOOR-MIRROR-HDB,Clear mirror door (max 3ft x 8ft) [HDB],pc,250.00
+BEN-DOOR-MIRROR-SNS,Clear mirror door (max 3ft x 8ft) [HDB-SNS],pc,250.00
+BEN-DOOR-MIRROR-CONDO,Clear mirror door (max 3ft x 8ft) [Condo/Landed],pc,280.00
+BEN-SLIDE-EXCEL-T206-HDB,Sliding door soft closing (Excel T206) [HDB],pc,280.00
+BEN-SLIDE-EXCEL-T206-SNS,Sliding door soft closing (Excel T206) [HDB-SNS],pc,280.00
+BEN-SLIDE-EXCEL-T206-CONDO,Sliding door soft closing (Excel T206) [Condo/Landed],pc,280.00
+BEN-SLIDE-EXCEL-T809S-HDB,Sliding door soft closing (Excel T809S) [HDB],pc,150.00
+BEN-SLIDE-EXCEL-T809S-SNS,Sliding door soft closing (Excel T809S) [HDB-SNS],pc,150.00
+BEN-SLIDE-EXCEL-T809S-CONDO,Sliding door soft closing (Excel T809S) [Condo/Landed],pc,150.00
+BEN-KITCH-TOPBOT-HDB,"Kitchen cabinet Top & Bottom (internal colour PVC, normal hinge) [HDB]",ft,260.00
+BEN-KITCH-TOPBOT-SNS,"Kitchen cabinet Top & Bottom (internal colour PVC, normal hinge) [HDB-SNS]",ft,250.00
+BEN-KITCH-TOPBOT-CONDO,"Kitchen cabinet Top & Bottom (internal colour PVC, normal hinge) [Condo/Landed]",ft,280.00
+BEN-AL-FROST-GLASS-HDB,Aluminium frosted glass door [HDB],pc,90.00
+BEN-AL-FROST-GLASS-SNS,Aluminium frosted glass door [HDB-SNS],pc,90.00
+BEN-AL-FROST-GLASS-CONDO,Aluminium frosted glass door [Condo/Landed],pc,90.00
+BEN-VANITY-BOTTOM-HDB,Vanity cabinet (Bottom) [HDB],ft,140.00
+BEN-VANITY-BOTTOM-SNS,Vanity cabinet (Bottom) [HDB-SNS],ft,130.00
+BEN-VANITY-BOTTOM-CONDO,Vanity cabinet (Bottom) [Condo/Landed],ft,150.00
+BEN-VANITY-UPPER-HDB,Vanity upper cabinet (no mirror) [HDB],ft,120.00
+BEN-VANITY-UPPER-SNS,Vanity upper cabinet (no mirror) [HDB-SNS],ft,120.00
+BEN-VANITY-UPPER-CONDO,Vanity upper cabinet (no mirror) [Condo/Landed],ft,130.00
+BEN-VANITY-UPPER-MIR-CASE-HDB,Vanity upper mirror cabinet (casement) [HDB],ft,150.00
+BEN-VANITY-UPPER-MIR-CASE-SNS,Vanity upper mirror cabinet (casement) [HDB-SNS],ft,150.00
+BEN-VANITY-UPPER-MIR-CASE-CONDO,Vanity upper mirror cabinet (casement) [Condo/Landed],ft,170.00
+BEN-VANITY-UPPER-MIR-SLIDE-HDB,Vanity upper mirror cabinet (sliding + mirror) [HDB],ft,170.00
+BEN-VANITY-UPPER-MIR-SLIDE-SNS,Vanity upper mirror cabinet (sliding + mirror) [HDB-SNS],ft,170.00
+BEN-VANITY-UPPER-MIR-SLIDE-CONDO,Vanity upper mirror cabinet (sliding + mirror) [Condo/Landed],ft,180.00
+BEN-VANITY-<3FT-HDB,Vanity cabinet (below 3ft) [HDB],ft,160.00
+BEN-VANITY-<3FT-SNS,Vanity cabinet (below 3ft) [HDB-SNS],ft,150.00
+BEN-VANITY-<3FT-CONDO,Vanity cabinet (below 3ft) [Condo/Landed],ft,170.00
+BEN-VANITY-BASE-ONLY-HDB,Vanity cabinet (base only) [HDB],ft,130.00
+BEN-VANITY-BASE-ONLY-SNS,Vanity cabinet (base only) [HDB-SNS],ft,130.00
+BEN-VANITY-BASE-ONLY-CONDO,Vanity cabinet (base only) [Condo/Landed],ft,150.00
+BEN-SHOE-FULL-HDB,Full height shoes cabinet (internal colour PVC) [HDB],ft,270.00
+BEN-SHOE-FULL-SNS,Full height shoes cabinet (internal colour PVC) [HDB-SNS],ft,260.00
+BEN-SHOE-FULL-CONDO,Full height shoes cabinet (internal colour PVC) [Condo/Landed],ft,290.00
+BEN-SHOE-LOW-HDB,"Low shoes cabinet (max height 4ft, internal colour PVC) [HDB]",ft,130.00
+BEN-SHOE-LOW-SNS,"Low shoes cabinet (max height 4ft, internal colour PVC) [HDB-SNS]",ft,125.00
+BEN-SHOE-LOW-CONDO,"Low shoes cabinet (max height 4ft, internal colour PVC) [Condo/Landed]",ft,145.00
+BEN-TV-SUSP-HDB,"Suspended TV console (white PVC, H<=300mm) [HDB]",ft,130.00
+BEN-TV-SUSP-SNS,"Suspended TV console (white PVC, H<=300mm) [HDB-SNS]",ft,130.00
+BEN-TV-SUSP-CONDO,"Suspended TV console (white PVC, H<=300mm) [Condo/Landed]",ft,140.00
+BEN-TV-LOW-HDB,"Low TV console (white PVC, H<=600mm) [HDB]",ft,150.00
+BEN-TV-LOW-SNS,"Low TV console (white PVC, H<=600mm) [HDB-SNS]",ft,140.00
+BEN-TV-LOW-CONDO,"Low TV console (white PVC, H<=600mm) [Condo/Landed]",ft,160.00
+BEN-TV-FLIP-CABLE-HDB,Flip-up door for cable (with brush) [HDB],pc,50.00
+BEN-TV-FLIP-CABLE-SNS,Flip-up door for cable (with brush) [HDB-SNS],pc,50.00
+BEN-TV-FLIP-CABLE-CONDO,Flip-up door for cable (with brush) [Condo/Landed],pc,50.00
+BEN-WALL-FEATURE-LAM-HDB,Featural wall by laminate (50-100mm) [HDB],sqft,18.00
+BEN-WALL-FEATURE-LAM-SNS,Featural wall by laminate (50-100mm) [HDB-SNS],sqft,18.00
+BEN-WALL-FEATURE-LAM-CONDO,Featural wall by laminate (50-100mm) [Condo/Landed],sqft,20.00
+BEN-POCKET-FLIP-TRACK-HDB,Pocket flip-up sliding track (pair) [HDB],pair,50.00
+BEN-POCKET-FLIP-TRACK-SNS,Pocket flip-up sliding track (pair) [HDB-SNS],pair,50.00
+BEN-POCKET-FLIP-TRACK-CONDO,Pocket flip-up sliding track (pair) [Condo/Landed],pair,50.00
+BEN-OPEN-SHELF-60-HDB,Open shelf design (small) [HDB],ea,60.00
+BEN-OPEN-SHELF-60-SNS,Open shelf design (small) [HDB-SNS],ea,60.00
+BEN-OPEN-SHELF-60-CONDO,Open shelf design (small) [Condo/Landed],ea,60.00
+BEN-OPEN-SHELF-80-HDB,Open shelf design (large) [HDB],ea,80.00
+BEN-OPEN-SHELF-80-SNS,Open shelf design (large) [HDB-SNS],ea,80.00
+BEN-OPEN-SHELF-80-CONDO,Open shelf design (large) [Condo/Landed],ea,80.00
+BEN-LED-STRIP-HDB,LED strip light + aluminium track (S&I) [HDB],ft,12.00
+BEN-LED-STRIP-SNS,LED strip light + aluminium track (S&I) [HDB-SNS],ft,12.00
+BEN-LED-STRIP-CONDO,LED strip light + aluminium track (S&I) [Condo/Landed],ft,12.00
+BEN-LED-STRIP-HELMET-HDB,LED strip light helmet + laminated helmet [HDB],ft,30.00
+BEN-LED-STRIP-HELMET-SNS,LED strip light helmet + laminated helmet [HDB-SNS],ft,30.00
+BEN-LED-STRIP-HELMET-CONDO,LED strip light helmet + laminated helmet [Condo/Landed],ft,30.00
+BEN-CURVED-FULL-HEIGHT-HDB,R80-90 curved full height - 1 side [HDB],set,240.00
+BEN-CURVED-FULL-HEIGHT-SNS,R80-90 curved full height - 1 side [HDB-SNS],set,240.00
+BEN-CURVED-FULL-HEIGHT-CONDO,R80-90 curved full height - 1 side [Condo/Landed],set,270.00
+BEN-DRAWER-ADD-HDB,Drawer - additional (max L800mm) [HDB],set,70.00
+BEN-DRAWER-ADD-SNS,Drawer - additional (max L800mm) [HDB-SNS],set,70.00
+BEN-DRAWER-ADD-CONDO,Drawer - additional (max L800mm) [Condo/Landed],set,70.00
+BEN-SCARF-1L-HDB,Scarf drawer - 1 layer [HDB],layer,80.00
+BEN-SCARF-1L-SNS,Scarf drawer - 1 layer [HDB-SNS],layer,80.00
+BEN-SCARF-1L-CONDO,Scarf drawer - 1 layer [Condo/Landed],layer,80.00
+BEN-SCARF-2L-HDB,Scarf drawer - 2 layers [HDB],dbl_layer,110.00
+BEN-SCARF-2L-SNS,Scarf drawer - 2 layers [HDB-SNS],dbl_layer,110.00
+BEN-SCARF-2L-CONDO,Scarf drawer - 2 layers [Condo/Landed],dbl_layer,110.00
+BEN-SCARF-RACK-HDB,Scarf pull-out rack (S&I) [HDB],set,100.00
+BEN-SCARF-RACK-SNS,Scarf pull-out rack (S&I) [HDB-SNS],set,100.00
+BEN-SCARF-RACK-CONDO,Scarf pull-out rack (S&I) [Condo/Landed],set,100.00
+BEN-OPEN-SHELF-LAM-SQM-HDB,Open shelf laminated [HDB],sqm,80.00
+BEN-OPEN-SHELF-LAM-SQM-SNS,Open shelf laminated [HDB-SNS],sqm,80.00
+BEN-OPEN-SHELF-LAM-SQM-CONDO,Open shelf laminated [Condo/Landed],sqm,100.00
+BEN-WALL-FLUTED-HDB,"Featural wall - fluted panel (by laminate, 50-100mm) [HDB]",sqft,25.00
+BEN-WALL-FLUTED-SNS,"Featural wall - fluted panel (by laminate, 50-100mm) [HDB-SNS]",sqft,25.00
+BEN-WALL-FLUTED-CONDO,"Featural wall - fluted panel (by laminate, 50-100mm) [Condo/Landed]",sqft,28.00
+BEN-SHAKER-DRW-HDB,Shaker door panel - drawer size [HDB],pc,40.00
+BEN-SHAKER-DRW-SNS,Shaker door panel - drawer size [HDB-SNS],pc,40.00
+BEN-SHAKER-DRW-CONDO,Shaker door panel - drawer size [Condo/Landed],pc,40.00
+BEN-SHAKER-<1200-HDB,"Shaker door panel - H < 1200mm, W <= 600mm [HDB]",pc,60.00
+BEN-SHAKER-<1200-SNS,"Shaker door panel - H < 1200mm, W <= 600mm [HDB-SNS]",pc,60.00
+BEN-SHAKER-<1200-CONDO,"Shaker door panel - H < 1200mm, W <= 600mm [Condo/Landed]",pc,60.00
+BEN-SHAKER-1200-2400-HDB,"Shaker door panel - H 1200-2400mm, W <= 600mm [HDB]",pc,100.00
+BEN-SHAKER-1200-2400-SNS,"Shaker door panel - H 1200-2400mm, W <= 600mm [HDB-SNS]",pc,100.00
+BEN-SHAKER-1200-2400-CONDO,"Shaker door panel - H 1200-2400mm, W <= 600mm [Condo/Landed]",pc,100.00
