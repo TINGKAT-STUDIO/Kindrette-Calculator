@@ -3,6 +3,12 @@ import pandas as pd
 import io, os
 from io import StringIO
 
+def _rerun():
+    if hasattr(st, "rerun"):
+        st.rerun()
+    else:
+        _rerun()
+
 APP_TITLE = "Kindrette Carpentry Quote Tool"
 st.set_page_config(page_title=APP_TITLE, layout="wide")
 
@@ -14,7 +20,7 @@ b_up = st.sidebar.file_uploader("Ben price list (CSV)", type="csv", key="ben_upl
 # Manual refresh button to bust cache on demand
 if st.sidebar.button("🔄 Refresh catalogs"):
     st.cache_data.clear()
-    st.experimental_rerun()
+    _rerun()
 
 def _validate_columns(df, who):
     cols = {c.lower() for c in df.columns}
@@ -169,11 +175,11 @@ else:
 
     if to_delete is not None:
         st.session_state.lines.pop(to_delete)
-        st.experimental_rerun()
+        
 
     if st.button("Clear all selections"):
         st.session_state.lines = []
-        st.experimental_rerun()
+        _rerun()
 
     sel_df = pd.DataFrame(st.session_state.lines)
     st.dataframe(sel_df, use_container_width=True)
